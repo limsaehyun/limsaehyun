@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm LimSaeHyun</h1>
 <h3 align="center">대덕SW마이스터고에 재학 중인 학생입니다.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limsaehyun&label=Profile%20views&color=0e75b6&style=flat" alt="limsaehyun" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/임세현" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="임세현" height="30" width="40" /></a>
@@ -14,7 +12,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limsaehyun&show_icons=true&locale=en&layout=compact" alt="limsaehyun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limsaehyun&show_icons=true&locale=kr" alt="limsaehyun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limsaehyun&show_icons=true&locale=en" alt="limsaehyun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limsaehyun&" alt="limsaehyun" /></p>
+
 
