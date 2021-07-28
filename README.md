@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lim%20Sae%20Hyun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=열정으로%20무장한%20개발자%20임세현%20입니다!&descAlignY=51&descAlign=62)
+<p align="center">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <br><br>
 
 
 <h1 align="center">Hi 👋, I'm LimSaeHyun</h1>
