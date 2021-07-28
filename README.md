@@ -10,6 +10,4 @@ I am interested in Android development and I am focusing on Java and Cotlin.
 
 - 🔭 I'm currently attending Daedeok Software Meister High School.
 - 🌱 I’m currently learning Android Development.
-- 🎢 Profile Visitors Count:
-
-
+- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
