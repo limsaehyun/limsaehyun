@@ -2,8 +2,8 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
 
-  <h1 align="center">Hi 👋, I'm SaeHyun</h1>
-<h3 align="center">Hello, I am a student studying programming in Korea.</h3>
+  <h1 align="center">Hello there! My Name is Saehyun Lim 👋🤓</h1>
+<h3 align="center">I am a student studying programming in Korea.</h3>
 
   ### About me🧑:
 I am a student studying Computer Programming.<br/>
