@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
+[![ProfileBanner](https://github.com/limsaehyun/limsaehyun/blob/main/Images/githubtitle.png)](https://saehyun.kr)
 
 ---
 
@@ -15,7 +13,6 @@ I am interested in Android development and I am focusing on Java and Kotlin.
 - 🎢 Profile Visitors Count:
   
   ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
-<br/>
   
 ---
   
