@@ -1,7 +1,5 @@
 [![ProfileBanner](https://github.com/limsaehyun/limsaehyun/blob/main/Images/githubtitle.png)](https://saehyun.kr)
 
----
-
   ### About me🧑:
 I am a student studying Computer Programming.<br/>
 I am interested in Android development and I am focusing on Java and Kotlin.
@@ -13,6 +11,8 @@ I am interested in Android development and I am focusing on Java and Kotlin.
 - 🎢 Profile Visitors Count:
   
   ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
+  
+---
   
 <details>
 <summary>
