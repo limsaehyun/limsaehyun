@@ -14,8 +14,6 @@ I am interested in Android development and I am focusing on Java and Kotlin.
   
   ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
   
----
-  
 <details>
 <summary>
 Languages🛠:
