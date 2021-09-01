@@ -1,13 +1,13 @@
 [![ProfileBanner](https://github.com/limsaehyun/limsaehyun/blob/main/Images/githubtitle.png)](https://saehyun.kr)
 
   ### About me🧑:
-I am a student studying Computer Programming.<br/>
-I am interested in Android development and I am focusing on Java and Kotlin.
+컴퓨터 프로그래밍을 공부하고 있는 주니어 개발자입니다..<br/>
+Java와 Kotlin을 사용한 안드로이드 개발을 중점적으로 공부하고 있습니다.
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
-- 🔭 I'm currently attending Daedeok Software Meister High School.
-- 🌱 I’m currently learning Android Development.
+- 🔭 현제 대덕소프트웨어마이스터고등학교 1학년 공통분야로 재학중입니다.
+- 🌱 안드로이드에 대해서 공부하고 있습니다.
 - 🎢 Profile Visitors Count:
   
   ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
