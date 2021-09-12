@@ -7,7 +7,7 @@ Java와 Kotlin을 사용한 안드로이드 개발을 중점적으로 공부하�
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 - 🔭 현제 대덕소프트웨어마이스터고등학교 1학년 공통분야로 재학중입니다.
-- 🌱 안드로이드에 대해서 공부하고 있습니다.
+- 🌱 Kotlin, Flutter, Java를 사용한 안드로이드 개발을 하고 있습니다.
 - 🎢 Profile Visitors Count:
   
   ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
@@ -19,6 +19,7 @@ Java와 Kotlin을 사용한 안드로이드 개발을 중점적으로 공부하�
 Languages🛠:
 </summary>
 <br/>
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/flutter.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/kotlin.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></code>
