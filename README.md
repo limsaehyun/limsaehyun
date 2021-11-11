@@ -6,7 +6,7 @@
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
-- 🔭 현제 대덕소프트웨어마이스터고등학교 1학년 공통분야로 재학중입니다.
+- 🔭 현재 대덕소프트웨어마이스터고등학교 1학년 공통분야로 재학중입니다.
 - 🌱 Java와 Kotlin을 사용한 안드로이드 개발을 중점적으로 공부하고 있습니다.
 - 🎢 Profile Visitors Count:
   
