@@ -14,10 +14,10 @@
   <a href="https://velog.io/@limsaehyun"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@limsaehyun"/></a>&nbsp
   <a href="https://www.instagram.com/sae.__.hyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sae.__.hyun/"/></a>&nbsp
   <a href="https://www.facebook.com/profile.php?id=100016589911133"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100016589911133"/></a>&nbsp
-  <a href="[https://www.notion.so/sehyoun05/SEHYOUN-98a343a40a19416997ff537b471f50a0](https://www.linkedin.com/in/세현-임-220912228/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/세현-임-220912228/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=limsaehyun&theme=onedark)](https://github.com/limsaehyun/github-profile-trophy)
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=limsaehyun&theme=chalk&row=1&column=7&margin-w=5)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
