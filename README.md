@@ -1,45 +1,23 @@
-[![ProfileBanner](https://github.com/limsaehyun/limsaehyun/blob/main/Images/githubtitle.png)](https://saehyun.kr)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=350&section=header&text=saehyun%&fontSize=90)
 
-  ### 안녕하세요, 안드로이드 개발자 임세현입니다 🧑:
-저에 대해서 소개할게요! <br/>
+### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp
+</p>
 
-- 🔭 저는 현재 대덕SW마이스터고 2학년 소프트웨어 개발과에 진학하고 있어요!
+### Blog & SNS
+<p>
+  <a href="https://velog.io/@limsaehyun"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@limsaehyun"/></a>&nbsp
+  <a href="https://www.instagram.com/sae.__.hyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sae.__.hyun/"/></a>&nbsp
+  <a href="https://www.facebook.com/profile.php?id=100016589911133"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100016589911133"/></a>&nbsp
+  <a href="[https://www.notion.so/sehyoun05/SEHYOUN-98a343a40a19416997ff537b471f50a0](https://www.linkedin.com/in/세현-임-220912228/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</p>
 
-  안드로이드를 주로 개발하고, 취미로는 UI/UX 디자인을 하고 있어요.
-- 🌱 환영인사는 언제나 환영이에요. 언제든 연락주세요 :D
-- 🎢 Profile Visitors Count:
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
-  
----
-  
-<details>
-<summary>
-Languages🛠:
-</summary>
-<br/>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/flutter.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/kotlin.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
-</details>
 
----
-  
-<details>
-<summary>
-Develope Tools🛠:
-</summary>
-<br/>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/android-os.png"></code> 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/figma--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/notion--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/windows/32/000000/gitkraken.png"></code>
-</details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=limsaehyun&theme=onedark)](https://github.com/limsaehyun/github-profile-trophy)
+
+![](https://visitor-badge.glitch.me/badge?page_id=limsaehyun)
