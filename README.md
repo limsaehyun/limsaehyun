@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
   
+<div align="center">
+  <br/>
 <b>🛠 Studying.. 🛠</b>
 </div>
 <div align="center">
