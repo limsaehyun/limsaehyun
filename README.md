@@ -68,11 +68,11 @@
 ### 📑 My Project 📑
   
   
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=duckie-android"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=duckie-android">
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=quack-quack-android"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=quack-quack-android">
 </picture>](https://github.com/duckie-team/quack-quack-android)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=duckie-android"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=duckie-android">
 </picture>](https://github.com/duckie-team/duckie-android)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Team-ComIT&repo=SimTong-Android"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Team-ComIT&repo=SimTong-Android">
