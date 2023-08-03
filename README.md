@@ -79,9 +79,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Walkhub&repo=walkhub_android"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Walkhub&repo=walkhub_android">
 </picture>](https://github.com/Walkhub/walkhub_android)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Team-Smonkey&repo=SMonkey_Android"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Team-Smonkey&repo=SMonkey_Android">
-</picture>](https://github.com/Team-Smonkey/SMonkey_Android)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Team-Smonkey&repo=SMonkey-Backend"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Team-Smonkey&repo=SMonkey-Backend">
+</picture>](https://github.com/Team-Smonkey/SMonkey-Backend)
    
 <div align="center">  
 
