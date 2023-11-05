@@ -64,49 +64,6 @@
 <br>
   
 <div align="center">  
-
-### 📑 Public Project 📑
-  
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Team-ComIT&repo=SimTong-Android"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Team-ComIT&repo=SimTong-Android">
-</picture>](https://github.com/Team-ComIT/SimTong-Android)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=quack-quack-android"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=duckie-team&repo=quack-quack-android">
-</picture>](https://github.com/duckie-team/quack-quack-android)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=team-aliens&repo=DMS-Android"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=team-aliens&repo=DMS-Android">
-</picture>](https://github.com/team-aliens/DMS-Android)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Walkhub&repo=walkhub_android"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Walkhub&repo=walkhub_android">
-</picture>](https://github.com/Walkhub/walkhub_android)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Team-Smonkey&repo=SMonkey-Backend"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Team-Smonkey&repo=SMonkey-Backend">
-</picture>](https://github.com/Team-Smonkey/SMonkey-Backend)
-   
-<div align="center">  
-
-### 📑 Study 📑
-  
-  
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=limsaehyun&repo=Android_Study"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=limsaehyun&repo=Android_Study">
-</picture>](https://github.com/limsaehyun/Android_Study)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=DSM-Android-Study&repo=DSM-Android-Study-Season-2"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=DSM-Android-Study&repo=DSM-Android-Study-Season-2">
-</picture>](https://github.com/DSM-Android-Study/DSM-Android-Study-Season-2)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=DSM-Android-Study&repo=DSM-Android-Study"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=DSM-Android-Study&repo=DSM-Android-Study">
-</picture>](https://github.com/DSM-Android-Study/DSM-Android-Study)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=Develop-Team-Study&repo=Android-Team-Study"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Develop-Team-Study&repo=Android-Team-Study">
-</picture>](https://github.com/Develop-Team-Study/Android-Team-Study)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=limsaehyun&repo=DataBase-Study"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=limsaehyun&repo=DataBase-Study">
-</picture>](https://github.com/limsaehyun/DataBase-Study)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin?username=study-algohaza&repo=JAVA_Algorithm"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=study-algohaza&repo=JAVA_Algorithm">
-</picture>](https://github.com/study-algohaza/JAVA_Algorithm)
-
   
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=limsaehyun"/>
