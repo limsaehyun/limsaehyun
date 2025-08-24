@@ -6,17 +6,17 @@
 
 **T.P.C Internet**  
 *Android Developer* · 2025.08 ~ 재직 중
-- 크리에이터 비즈니스 플랫폼 **라이키** 개발
+- 크리에이터 비즈니스 플랫폼 [**라이키**](https://play.google.com/store/apps/details?id=to.likey.android&hl=ko) 개발
 
 **Revibio Inc.** (前 팬마음, 캐시워크 관계사)  
 *Android Developer* · 2023.07 ~ 2024.12  
 *Android Lead* · 2025.01 ~ 2025.07  
-- 잠금화면 영단어 학습 서비스 **메모리워드** 개발
-- 웰니스 라이프스타일 앱 **타임스프레드** 개발
+- 잠금화면 영단어 학습 서비스 [**메모리워드**](https://play.google.com/store/apps/details?id=com.specupad.memoryword&hl=ko) 개발
+- 웰니스 라이프스타일 앱 [**타임스프레드**](https://play.google.com/store/apps/details?id=com.timespread.Timetable2&hl=ko) 개발
 
 **Onui Co.**  
 *Flutter Developer (Intern)* · 2022.12 ~ 2023.01  
-- 비대면 과외 앱 **설탭** 개발
+- 비대면 과외 앱 [**설탭**](https://play.google.com/store/apps/details?id=com.seoltab.seoltab&hl=ko) 개발
 
 ## Education
 
@@ -36,4 +36,8 @@
 - **Microsoft Hackers Ground — 최우수상** (2023.06) | *SMonkey*  
 - **8th Highthon — 최우수상** (2023.01) | *OMZ*  
 - **AppJam 22nd — 우수상** (2022.12) | *CulMix*  
-- **10th UNITON — (주)인프랩 특별상** (2023.09) | *극락뮤비*  
+- **10th UNITON — (주)인프랩 특별상** (2023.09) | *극락뮤비*
+
+## Contact Me
+- **Email**: sh007100@naver.com
+- **LinkedIn**: https://www.linkedin.com/in/세현-임-220912228/
