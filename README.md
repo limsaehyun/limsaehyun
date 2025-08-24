@@ -1,69 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=350&section=header&text=saehyun%&fontSize=90)
+![Lim Saehyun — header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Lim%20SaeHyun&fontSize=48&fontAlignY=38&animation=fadeIn)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=limsaehyun&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+프로덕트 메이커 성향의 안드로이드 개발자 임세현입니다.  사용자 중심의 모바일 경험을 만들고 있습니다.
 
-  <div align="center">
-  
-### LIMSAEHYUN
-<a>
-  <a href="https://resume.saehyun.kr"><img src="https://img.shields.io/badge/Notion-34567C?style=flat-square&logo=Notion&logoColor=white&link=https://resume.saehyun.kr"/></a>&nbsp
-  <a href="https://medium.com/@limsaehyun"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&log*oColor=white&link=https://medium.com/@limsaehyun"/></a>&nbsp
-  <a href="https://velog.io/@limsaehyun"><img src="https://img.shields.io/badge/VELOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@limsaehyun"/></a>&nbsp
-  <a href="https://www.instagram.com/sae.__.hyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sae.__.hyun/"/></a>&nbsp
-  <a href="https://www.facebook.com/profile.php?id=100016589911133"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100016589911133"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/세현-임-220912228/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-</a>
-</div>
+## Experience
 
----
+**T.P.C Internet**  
+*Android Developer* · 2025.08 ~ 재직 중
+- 크리에이터 비즈니스 플랫폼 **라이키** 개발
 
-<div align="center">
-<b>Development for everyone's convenience</b>
-</div>
+**Rivivio Inc.** (前 팬마음, 캐시워크 관계사)  
+*Android Developer* · 2023.07 ~ 2024.12 (파트원, 3개월 인턴)  
+*Android Lead* · 2025.01 ~ 2025.07  
+- 잠금화면 영단어 학습 서비스 **메모리워드** 개발
+- 웰니스 라이프스타일 앱 **타임스프레드** 개발
 
----
+**Onui Co.**  
+*Flutter Developer (Intern)* · 2022.12 ~ 2023.01  
+- 비대면 과외 앱 **설탭** 개발
 
-<div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limsaehyun&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-<div align="center">  
-<b>🛠 Use for work 🛠</b>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
-  
-<div align="center">
-  <br/>
-<b>🛠 Studying.. 🛠</b>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>&nbsp
+## Education
 
-<div align="center">
-  <br/>
-<b>🔩 Tools 🔩</b>
-</div>
-<div align="center">
+**Daejeon Software Meister High School**  
+소프트웨어개발과 · 2021.03 ~ 2024.01  
+- 동아리 활동: **DMS**(기숙사 관리 앱), **ComIT**(주식회사 로쏘(성심당) 인트라넷 앱)  
 
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white "/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
-  
----
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=limsaehyun&theme=chalk&row=1&column=7&margin-w=5)
-  
-<br>
-  
-<div align="center">  
-  
+**National Institute for Lifelong Education**  
+컴퓨터공학과 (학점은행제) · 2024.01 ~ 2024.12  
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=limsaehyun"/>
+**Korea National Open University**  
+컴퓨터과학과 (3학년 편입) · 2025.03 ~ 재학 중  
+- 동아리 활동: 개발자 커뮤니티 **그로스로그(Growth-Log)** 활동  
+
+## Awards
+
+- **Microsoft Hackers Ground — 최우수상** (2023.06) | *SMonkey*  
+- **8th Highthon — 최우수상** (2023.01) | *OMZ*  
+- **AppJam 22nd — 우수상** (2022.12) | *CulMix*  
+- **10th UNITON — (주)인프랩 특별상** (2023.09) | *극락뮤비*  
