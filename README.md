@@ -4,30 +4,30 @@
 
 ## Experience
 
-**T.P.C Internet**  
+**T.P.C. Internet**  
 *Android Developer* · 2025.08 ~ 재직 중
 - 크리에이터 비즈니스 플랫폼 [**라이키**](https://play.google.com/store/apps/details?id=to.likey.android&hl=ko) 개발
 
-**Revibio Inc.** (前 팬마음, 캐시워크 관계사)  
+**주식회사 리비아이오** (前 팬마음, 캐시워크 관계사)  
 *Android Developer* · 2023.07 ~ 2024.12  
 *Android Lead* · 2025.01 ~ 2025.07  
 - 잠금화면 영단어 학습 서비스 [**메모리워드**](https://play.google.com/store/apps/details?id=com.specupad.memoryword&hl=ko) 개발
 - 웰니스 라이프스타일 앱 [**타임스프레드**](https://play.google.com/store/apps/details?id=com.timespread.Timetable2&hl=ko) 개발
 
-**Onui Co.**  
+**주식회사 오누이**  
 *Flutter Developer (Intern)* · 2022.12 ~ 2023.01  
 - 비대면 과외 앱 [**설탭**](https://play.google.com/store/apps/details?id=com.seoltab.seoltab&hl=ko) 개발
 
 ## Education
 
-**Daejeon Software Meister High School**  
+**대덕소프트웨어마이스터고등학교**  
 소프트웨어개발과 · 2021.03 ~ 2024.01  
 - 동아리 활동: **DMS**(기숙사 관리 앱), **ComIT**(주식회사 로쏘(성심당) 인트라넷 앱)  
 
-**National Institute for Lifelong Education**  
+**국가평생교육진흥원**  
 컴퓨터공학과 (학점은행제) · 2024.01 ~ 2024.12  
 
-**Korea National Open University**  
+**한국방송통신대학교**  
 컴퓨터과학과 (3학년 편입) · 2025.03 ~ 재학 중  
 - 동아리 활동: 개발자 커뮤니티 **그로스로그(Growth-Log)** 활동  
 
