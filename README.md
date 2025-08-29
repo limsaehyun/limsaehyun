@@ -8,7 +8,7 @@
 *Android Developer* · 2025.08 ~ 재직 중
 - 크리에이터 비즈니스 플랫폼 [**라이키**](https://play.google.com/store/apps/details?id=to.likey.android&hl=ko) 개발
 
-**주식회사 리비아이오** (前 팬마음, 캐시워크 관계사)  
+**주식회사 리비바이오** (前 팬마음, 캐시워크 관계사)  
 *Android Developer* · 2023.07 ~ 2024.12  
 *Android Lead* · 2025.01 ~ 2025.07  
 - 잠금화면 영단어 학습 서비스 [**메모리워드**](https://play.google.com/store/apps/details?id=com.specupad.memoryword&hl=ko) 개발
